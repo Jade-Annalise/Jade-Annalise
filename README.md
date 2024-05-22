@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jade-Annalise
 - 👀 I’m interested in coding in python for data analysis and machine learning
 - 🌱 I’m currently learning machine learning libraries 
-- A lot of the repositories are just for fun 
+
 
 
 <!---
