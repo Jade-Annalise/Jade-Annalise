@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jade-Annalise
 - 👀 I’m interested in coding in python for data analysis and machine learning
-- 🌱 I’m currently learning machine learning libraries 
+- 🌱 I’m currently learning machine learning libraries and working on my tornado analysis project
 
 
 
